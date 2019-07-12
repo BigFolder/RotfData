@@ -8,7 +8,7 @@ Quick and scuffed gui to see server-wide death/loot stats as well as player name
   If you wish to update the files you can use the update button in the program it does require a discord token which can be found by doing "ctrl+shift+i" in discord, scrolling down to the bottom of applications, hitting f5 to refresh it and copying the "token" that pops up(it's long and ugly looks like a mess, but it's a powerful mess, Do not share this token with anyone it grants access to your account.) 
 We use this token to gather all of the information on Deaths/Legendary/Primal from the RotfDiscordNotifier bot. The text files get very big and the program will almost certainly enter "not responding" state that is fine, just go play games or do whatever when it is done it will make a neat windows pinging sound once. The 2 text files it gathers will automatically replace the older versions.
 
-Player Lookup is Case-Sensitive, if your ign is 'bob' put it in 'bob, if its 'Bob' put in 'Bob', if its 'BoB' put in 'BoB'...
+
 
 This was made very quickly yesterday and today, but it will get the job done for now. I will likely update it with quite a bit more involving the dates and times of each event for specified players. I belive it would be pretty neat to see a heatmap of primal drops across the notification bot's existence. 
 
