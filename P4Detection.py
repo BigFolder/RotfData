@@ -2,7 +2,8 @@ import csv
 import copy
 from math import sqrt
 
-#single pass cosim equation to compare user Data
+# single pass cosim equation to compare user Data
+
 def pcc(user1, user2):
     sum_X = 0
     sum_Y = 0
