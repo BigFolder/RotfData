@@ -1,4 +1,3 @@
-player;item;type;date
 krtel;Orb of Destiny;primal;2019-07-18
 winybaby;Claw of the Beast;primal;2019-07-18
 annual;Bone Splinter Robe;primal;2019-07-18
